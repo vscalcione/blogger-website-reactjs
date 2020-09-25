@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./NavbarComponent.css";
+import AOS from "aos";
 
 export class NavbarComponent extends Component {
   render() {

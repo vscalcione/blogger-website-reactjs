@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import { LandingPageComponent } from "./components/LandingPage/LadingPageComponent";
 import { NavbarComponent } from "./components/Navbar/NavbarComponent";
+import { CarouselPostsComponent } from "./components/CarouselPostsComponent/CarouselPostsComponent";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <NavbarComponent />
       <main>
         <LandingPageComponent />
+        <CarouselPostsComponent />
       </main>
     </div>
   );

@@ -27,7 +27,6 @@ export class CarouselPostsComponent extends Component {
               margin={8}
               autoplay
               autoplayTimeout={4500}
-              nav={"owl-navigation"}
             >
               <div
                 className="blog-content"
@@ -41,7 +40,6 @@ export class CarouselPostsComponent extends Component {
                   <span>2 minutes</span>
                 </div>
               </div>
-
               <div
                 className="blog-content"
                 data-aos="fade-right"
@@ -54,7 +52,6 @@ export class CarouselPostsComponent extends Component {
                   <span>2 minutes</span>
                 </div>
               </div>
-
               <div
                 className="blog-content"
                 data-aos="fade-right"

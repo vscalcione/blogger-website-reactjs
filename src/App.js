@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { LandingPageComponent } from "./components/LandingPage/LadingPageComponent";
+import { LandingPageComponent } from "./components/LandingPage/LandingPageComponent";
 import { NavbarComponent } from "./components/Navbar/NavbarComponent";
 import { CarouselPostsComponent } from "./components/CarouselPostsComponent/CarouselPostsComponent";
 

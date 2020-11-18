@@ -9,7 +9,7 @@ export class NavbarComponent extends Component {
         <div className="nav-menu flex-row">
           <div className="nav-brand">
             <a className="text-gray" href="#">
-              Blogger Website
+              Tourist Website
             </a>
           </div>
           <div className="toggle-collapse">
